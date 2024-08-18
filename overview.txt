@@ -1,0 +1,7 @@
+Option 1: I would create something where the user would input the types of air conditioning systems they want into some sort of interface.  The inputs can be used to create a proposal based on templates and also give pricing for said systems which can be acquired through a database full of pricing information.
+
+Option 2: Can build some sort of task management application that can be used to manage and store tasks or projects.  
+
+Option 3: Some sort of health and fitness tracker that can help people track their health goals.  
+
+I'm not sure how in-depth these options need to be but I think any of these would be a good path to take for the capstone project. 
